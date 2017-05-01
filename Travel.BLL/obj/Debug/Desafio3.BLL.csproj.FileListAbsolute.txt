@@ -1,0 +1,10 @@
+c:\Users\felipe.montino\documents\visual studio 2013\Projects\Desafio3\Desafio3.BLL\bin\Debug\Desafio3.BLL.dll
+c:\Users\felipe.montino\documents\visual studio 2013\Projects\Desafio3\Desafio3.BLL\bin\Debug\Desafio3.BLL.pdb
+c:\Users\felipe.montino\documents\visual studio 2013\Projects\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.csprojResolveAssemblyReference.cache
+c:\Users\felipe.montino\documents\visual studio 2013\Projects\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.dll
+c:\Users\felipe.montino\documents\visual studio 2013\Projects\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\Desafio\Desafio3\Desafio3.BLL\bin\Debug\Desafio3.BLL.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\Desafio\Desafio3\Desafio3.BLL\bin\Debug\Desafio3.BLL.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\Desafio\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\Desafio\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\Desafio\Desafio3\Desafio3.BLL\obj\Debug\Desafio3.BLL.pdb
